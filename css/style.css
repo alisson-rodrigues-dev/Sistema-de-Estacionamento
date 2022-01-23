@@ -76,4 +76,8 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+ 
+  {
+    background: rgb(234, 0, 0);
+  }
 }
